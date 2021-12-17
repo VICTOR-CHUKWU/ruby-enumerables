@@ -1,5 +1,5 @@
 # Project Name
-morse code
+enumerable
 
 ## Built With
 
@@ -8,7 +8,7 @@ morse code
 ## Getting Started
 
 
-clone the repo or download from https://github.com/tufoinnkuo10/morse-decoder
+clone the repo or download from https://github.com/VICTOR-CHUKWU/ruby-enumerables
 ## Run the application
 - ruby EnglishToMorseCode.rb
 
@@ -16,6 +16,8 @@ clone the repo or download from https://github.com/tufoinnkuo10/morse-decoder
 
 ## Authors
 👤 **Victor**
+
+
 
 - GitHub: [@VICTOR-CHUKWU](https://github.com/VICTOR-CHUKWU)
 - LinkedIn: [Victor-chukwu](https://www.linkedin.com/in/victor-chukwu-95a020143)
